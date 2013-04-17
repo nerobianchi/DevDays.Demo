@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ListDataSet xmlns="http://tempuri.org/ListDataSet.xsd">
+	<Book>
+		<Id>1</Id>
+	</Book>
+	<Book>
+		<Id>2</Id>
+	</Book>
+	<Book>
+		<Id>3</Id>
+	</Book>
+</ListDataSet>

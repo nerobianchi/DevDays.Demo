@@ -1,0 +1,3 @@
+As a book service, i should list all books
+	When there exists any books then return them
+	When there is no book then return an information about non existence
